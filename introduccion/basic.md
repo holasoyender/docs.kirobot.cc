@@ -24,7 +24,7 @@ Por ejemplo:
 
 ### Campo {Usuario}
 
-Todos los comandos admiten el uso de ID de usuario y mención en el campo de **Usuario**  
+Todos los comandos admiten el uso de ID de usuario y mención en el campo de **Usuario**   
   
 Ejemplos: 
 
