@@ -24,6 +24,10 @@ Da un rol específico a un usuario.
 
 Borra una infracción de un usuario.
 
+#### k/delinfs {Usuario}
+
+Borra todas las infracciones de un usuario.
+
 #### k/infrs {Usuario}
 
 Devuelve las infracciones de un usuario.

@@ -1,6 +1,7 @@
 # Table of contents
 
-* [KiroBot](README.md)
+* [Introduction](README.md)
+* [KiroBot](kirobot.md)
 * [Donaciones](donaciones.md)
 * [Servidor de soporte](https://discord.gg/Rwy8J35)
 * [Invitar a tu servidor](https://discord.com/api/oauth2/authorize?client_id=691263770399342592&permissions=8&scope=bot)
