@@ -6,12 +6,8 @@ description: >-
 
 # KiroBot
 
-Puedes añadir a **KiroBot** a tu server usando el siguiente link:  
+Puedes añadir a **KiroBot** a tu server usando el siguiente link:   
 [https://discord.com/api/oauth2/authorize?client\_id=691263770399342592&permissions=8&scope=bot](https://discord.com/api/oauth2/authorize?client_id=691263770399342592&permissions=8&scope=bot)
 
-{% embed url="https://discord.com/api/oauth2/authorize?client_id=691263770399342592&permissions=8&scope=bot" caption="" %}
-
-
-
-
+{% embed url="https://discord.com/api/oauth2/authorize?client\_id=691263770399342592&permissions=8&scope=bot" caption="" %}
 
