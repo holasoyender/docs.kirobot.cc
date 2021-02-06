@@ -8,19 +8,15 @@ description: Comandos de información del bot.
 
 Muestra información de **KiroBot**
 
-#### k/bug {Bug}
+#### k/docs
 
-Mandar un bug de **KiroBot** a revisión.
+Documentación del bot
 
 #### k/error {Error}
 
 Mandar un error de **KiroBot** a revisión.
 
-#### k/decir {Usuario} {Texto}
-
-Manda un mensaje privado a una persona a través de **KiroBot.**
-
-**k/invitación**
+**k/inv**
 
 Devuelve el link de invitación de **KiroBot.**
 
@@ -36,7 +32,7 @@ Hacer que **KiroBot** diga algo.
 
 Mandar una sugerencia para **KiroBot** a revisar.
 
-#### k/uptime
+#### k/help
 
-Muestra el tiempo que **KiroBot** lleva encendido.
+Dar información sobre un comando
 
