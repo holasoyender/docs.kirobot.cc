@@ -2,13 +2,13 @@
 
 ### Prefix \(Prefijo\)
 
-Los comandos del KiroBot se utilizan con el prefijo **k/,** por lo tanto para usar un comando primero deberás escribir el prefijo y a continuación el comando que quieres usar. Ejemplo: "k/kick"
+Los comandos del KiroBot se utilizan con el prefijo que configures en el archivo. El prefijo por defecto es **k/,** por lo tanto para usar un comando primero deberás escribir el prefijo y a continuación el comando que quieres usar. Ejemplo: "k/kick"
 
 ### Configurar el bot
 
-Para empezar a usar al **KiroBot**, se recomienda configurar los siguientes comandos:  
- - `k/setlogs {Canal}`, para elegir el canal en el que irán los logs del servidor.  
- - `k/automod {on/off/ignore} [Canales a ignorar]`, para encender/apagar o configurar **KiroBot Automod**.
+Para empezar a usar al **KiroBot**, se recomienda configurar su archivo de configuración:  
+ - `k/exportar`, para conseguir el archivo de configuración. Para aprender a configurarlo ve a esta pagina.  
+ - `k/importar`, para importar el archivo que has configurado.
 
 ### Campos opcionales y obligatorios
 
@@ -31,4 +31,12 @@ Ejemplos:
 ![](../.gitbook/assets/1.jpg)
 
 ![](../.gitbook/assets/2.jpg)
+
+### Campo {Duración}
+
+Algunos comandos necesitan especificar duración, puedes usar segundos \(s\), minutos \(m\), horas \(h\) o días \(d\). 
+
+Ejemplo:
+
+k/recordar 10m beber agua
 

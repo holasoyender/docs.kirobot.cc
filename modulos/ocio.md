@@ -4,14 +4,6 @@ description: Comandos dedicados al ocio
 
 # Ocio
 
-#### k/buscaminas
-
-Devuelve un tablero del juego _buscaminas._
-
-#### k/croqueta {Usuario}
-
-Le da una croqueta al usuario especificado.
-
 #### k/perro
 
 Manda una foto aleatoria de un perro
@@ -19,10 +11,6 @@ Manda una foto aleatoria de un perro
 #### k/gato
 
 Manda una foto aleatoria de un gato
-
-#### k/ppt {Piedra, papel o tijera}
-
-Juega contra **KiroBot** a piedra papel o tijera.
 
 #### k/ruleta
 

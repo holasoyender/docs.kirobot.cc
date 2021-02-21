@@ -4,10 +4,6 @@ description: Comandos centrados en la moderación de servidores.
 
 # Moderación
 
-#### k/automod {on/off/ignore} \[Canales a ignorar\]
-
-Encender/apagar o ignorar canales de **KiroBot AutoMod**
-
 #### k/ban {Usuario} \[Razón\]
 
 Prohíbe permanentemente la entrada de un usuario al servidor.
@@ -24,7 +20,7 @@ Da un rol específico a un usuario.
 
 Borra una infracción de un usuario.
 
-#### k/delinfs {Usuario}
+#### k/delinfrs {Usuario}
 
 Borra todas las infracciones de un usuario.
 
@@ -59,10 +55,6 @@ Desmutea al usuario en el servidor quitando el rol de **Muteado** y quitando el 
 #### k/vozkick {Usuario} \[Razón\]
 
 Expulsa al usuario de el canal de voz.
-
-#### k/setlogs {Canal}
-
-Elegir el canal para logs logs del servidor.
 
 #### k/warn {Usuario} \[Razón\]
 

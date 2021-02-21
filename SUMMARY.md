@@ -9,6 +9,7 @@
 ## Introducción
 
 * [Información basica](introduccion/basic.md)
+* [Configuración](introduccion/configuracion.md)
 
 ## Módulos
 

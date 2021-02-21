@@ -8,13 +8,17 @@ description: Comandos de información del bot.
 
 Muestra información de **KiroBot**
 
+#### k/config
+
+Mostrar la configuración actual
+
 #### k/docs
 
 Documentación del bot
 
-#### k/error {Error}
+#### k/exportar
 
-Mandar un error de **KiroBot** a revisión.
+Exportar el archivo de configuración para **KiroBot**
 
 **k/inv**
 
@@ -24,13 +28,17 @@ Devuelve el link de invitación de **KiroBot.**
 
 Pong!
 
+#### k/importar
+
+Importar el archivo de configuración que has configurado.
+
+#### k/iniciar
+
+Resetear el archivo de configuración
+
 #### k/say {Texto}
 
 Hacer que **KiroBot** diga algo.
-
-#### k/sugerir
-
-Mandar una sugerencia para **KiroBot** a revisar.
 
 #### k/help
 
