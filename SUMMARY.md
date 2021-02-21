@@ -10,6 +10,7 @@
 
 * [Información basica](introduccion/basic.md)
 * [Configuración](introduccion/configuracion.md)
+* [Ejemplo config](introduccion/ejemplo-config.md)
 
 ## Módulos
 
