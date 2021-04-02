@@ -5,7 +5,7 @@
 * [Donaciones](donaciones.md)
 * [Servidor de soporte](https://discord.gg/Rwy8J35)
 * [Invitar a tu servidor](https://discord.com/api/oauth2/authorize?client_id=691263770399342592&permissions=8&scope=bot)
-* [Estado](https://kirobot.freshstatus.io/)
+* [Estado](https://status.kirobot.cc/)
 
 ## Introducción
 
@@ -26,5 +26,4 @@
 
 * [FAQ](otros/faq.md)
 * [Política de Privacidad](otros/politica-de-privacidad.md)
-* [Cambios](otros/cambios.md)
 
