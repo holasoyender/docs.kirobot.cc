@@ -1,7 +1,7 @@
 # Configuración
 
 {% hint style="success" %}
-Te recomendamos usar un IDE especial para editar el archivo. Si no tienes uno, puedes configurarlo en cualquier editor y verificarlo en [https://jsonlint.com/](https://jsonlint.com/) 
+Te recomendamos usar un IDE especial para editar el archivo. Si no tienes uno, puedes configurarlo en cualquier editor y verificarlo en [https://yamlvalidator.com/](https://yamlvalidator.com/)
 {% endhint %}
 
 ### Como configurar

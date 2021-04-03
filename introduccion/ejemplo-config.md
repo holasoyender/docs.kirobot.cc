@@ -4,36 +4,36 @@ description: Aqui tienes un ejemplo de archivo de configuración
 
 # Ejemplo config
 
-```javascript
+```yaml
+#  ██╗░░██╗   ██╗   ██████╗░   ░█████╗░   ██████╗░   ░█████╗░   ████████╗
+#  ██║░██╔╝   ██║   ██╔══██╗   ██╔══██╗   ██╔══██╗   ██╔══██╗   ╚══██╔══╝
+#  █████═╝░   ██║   ██████╔╝   ██║░░██║   ██████╦╝   ██║░░██║   ░░░██║░░░
+#  ██╔═██╗░   ██║   ██╔══██╗   ██║░░██║   ██╔══██╗   ██║░░██║   ░░░██║░░░
+#  ██║░╚██╗   ██║   ██║░░██║   ╚█████╔╝   ██████╦╝   ╚█████╔╝   ░░░██║░░░
+#  ╚═╝░░╚═╝   ╚═╝   ╚═╝░░╚═╝   ░╚════╝░   ╚═════╝░   ░╚════╝░   ░░░╚═╝░░░
+#Este es el archivo de configuración para el servidor: KiroBot. Aprende a configurarlo en https://www.kirobot.cc
 
-{
+#Para aquellas configuraciones que contengan una array ([]) si se quiere añadir más de una ID se deberá separarlas entre comas
+#Ejemplo:   ignoredUsersIDs:  ["396683727868264449", "410092970562420739"]
 
-  "_": "Este es el archivo de configuración de KiroBot para el servidor KiroBot.",
-  "-": "Para aprender a configurarlo puedes visitar -> https://holasoyender.gitbook.io/kirobot",
+prefix: "k/"                # Prefijo que usará el bot para los comandos
 
-  "prefix": "k/",
+lang: "esp"                 # Idioma con el que trabajará el bot. Idiomas validos: "eng" y "esp"
 
-  "lang": "esp",
+moderation:
+    muteRoleID: "760505713758961686"            # Entre comillas la ID del rol que se dará a los usuarios silenciados
 
-  "moderation": {
-    "muteRoleID": "ID"
-  },
+logs:
+    logChannelID: "769990731972214786"          # Entre comillas la ID del canal de logs
+    ignoredChannelsIDs: ["810469825003388968", "234395307759108106"]                      # Entre comillas y separado por comas las IDs de los canales a ignorar por los logs
+    ignoredUsersIDs: ["810800509719019532"]       # Entre comillas y separado por comas las IDs de los usuarios a ignorar por los logs
 
-  "logs": {
-    "logChannelID": "ID",
-    "ignoredChannelsIDs": ["ID1", "ID2"],
-    "ignoredUsersIDs": ["ID1", "ID2"]
-  },
-
-  "automod": {
-    "active": true,
-    "deleteInvites": true,
-    "bannedWords": ["tonto", "gordo"],
-    "ignoredChannelsIDs": ["ID1", "ID2"],
-    "ignoredUsersIDs": ["ID1", "ID2"]
-  }
-
-}
+automod:
+    active: true                   # true Para activar KiroBot AutoMod, false para desactivarlo
+    deleteInvites: true            # true Para activar el filtrado de invitaciones, false para desactivarlo
+    bannedWords: ["tonto", "gokory"]           # Entre comillas y separado por comas las palabras que borrará el bot
+    ignoredChannelsIDs: ["468564048552787969", "736254609324245152"]          # Entre comillas y separado por comas las IDs de los canales a ignorar por el AutoMod
+    ignoredUsersIDs: ["683040899881763091"]              # Entre comillas y separado por comas las IDs de los usuarios a ignorar por el AutoMod
         
 ```
 
