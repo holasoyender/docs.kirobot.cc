@@ -1,3 +1,7 @@
+---
+description: Como configurar a KiroBot
+---
+
 # Configuración
 
 {% hint style="success" %}

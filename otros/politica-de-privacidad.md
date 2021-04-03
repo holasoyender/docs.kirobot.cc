@@ -11,14 +11,14 @@ description: >-
 Sólo almacenamos los datos necesarios para que **KiroBot** funcione. Estos son:
 
 * La información de los usuarios, almacenada entre una y dos semanas.
-* El contenido del uso de los comandos `k/say` y `k/decir`.
+* El contenido del uso de los comandos `k/say` y `k/recordar`.
 * El contenido de las sugerencias, bugs y errores.
 
 **Estos datos se guardan en una base de datos remota, por lo que nunca salen de esta. No es accesible para nadie más que para Discord o cualquier otra entidad legal.**
 
 ### Control de su información personal
 
-Puedes restringir en cualquier momento la información recopilada por el uso de los comandos `k/say` y `k/decir`. Si decidiese proceder con esto, no podrá usar dichos comandos.
+Puedes restringir en cualquier momento la información recopilada por el uso de los comandos `k/say` y `k/recordar`. Si decidiese proceder con esto, no podrá usar dichos comandos.
 
 ### ¿Cómo puedo mandar que se eliminen mis datos?
 

@@ -19,7 +19,6 @@
 * [Ocio](modulos/ocio.md)
 * [Bot](modulos/bot.md)
 * [Música](modulos/musica.md)
-* [Privados](modulos/privados.md)
 
 ## Otros
 
