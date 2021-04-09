@@ -4,7 +4,7 @@ description: >-
   por holasoyender#8934
 ---
 
-# KiroBot
+# KiroBot \| Discord
 
 Puedes añadir a **KiroBot** desde: 
 
