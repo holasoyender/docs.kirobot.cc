@@ -36,6 +36,10 @@ Quita un rol específico a un usuario.
 
 Expulsa a un usuario del servidor
 
+#### k/limitar {Tiempo}
+
+Limita el intervalo de mandado me mensajes a un canal por x segundos
+
 #### k/tempban {Usuario} {Duración} \[Razón\]
 
 Prohibe la entrada de un usuario al servidor el tiempo que se especifique.
