@@ -19,6 +19,7 @@
 * [Ocio](modulos/ocio.md)
 * [Bot](modulos/bot.md)
 * [Música](modulos/musica.md)
+* [Sorteos](modulos/sorteos.md)
 
 ## Otros
 
