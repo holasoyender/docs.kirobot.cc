@@ -22,7 +22,7 @@ Responde de forma aleatoria con si/no a una pregunta.
 
 #### k/tiempo {Sitio}
 
-Da información sobre le tiempo en el sitio especificado.
+Da información sobre el tiempo en el sitio especificado.
 
 #### k/tirar {Número}
 
