@@ -35,5 +35,11 @@ automod:
     ignoredChannelsIDs: ["468564048552787969", "736254609324245152"]          # Entre comillas y separado por comas las IDs de los canales a ignorar por el AutoMod
     ignoredUsersIDs: ["683040899881763091"]              # Entre comillas y separado por comas las IDs de los usuarios a ignorar por el AutoMod
         
+welcomes:           # Documentación en https://docs.kirobot.cc/
+    active: false                  # true para activar las bienvenidas, false para desactivarlo
+    welcomeMessageMD: ""           # Mensaje a enviar por MD cuando se una un usuario, vacío para desactivarlo
+    welcomeImageLink: ""             # Link de Imgur de la imagen de fondo a enviar por el canal de bienvenidas cuando se una un usuario, vacío para desactivarlo
+    welcomeChannelID: ""            # Canal para enviar la foto de bienvenida, vacío para desactivarlo
+    welcomeRoleID: ""                   # ID del rol a dar cuando se una un nuevo usuario
 ```
 
