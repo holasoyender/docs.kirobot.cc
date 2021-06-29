@@ -36,7 +36,29 @@ Cualquier palabra que se ponga en `bannedWords`será borrada por el **AutoMod**
 
 Para ignorar usuarios o canales debes poner sus IDs en `ignoredChannelsIDs` e `ignoredUsersIDs` respectivamente \(como en el apartado de Logs\).
 
-## 
+### Bienvenidas
 
-#### 
+Para activar las bienvenidas, debes de poner `true`en el apartado de `active`.
+
+#### Mensaje por MD
+
+Se mandará un mensaje por MD al nuevo usuario con el texto que se ponga dentro de `welcomeMessageMD`, están disponibles para ello las siguientes variables:
+
+```bash
+{servidor} : Nombre del servidor
+{server}: Nombre del servidor
+
+{salto} : Salto de línea
+{jump}: Salto de línea
+
+{usuario} : Nombre y discriminator del usuario (Antonio#6234)
+{user} : Nombre y discriminator del usuario (Pepe#6234)
+```
+
+#### Banner de bienvenida y rol
+
+Se mandará un banner de bienvenida al canal especificado en `welcomeChannelID`con la imagen de fondo que se especifique en `welcomeImageLink`  
+También se asignará a los nuevos usuarios con el rol especificado en `welcomeRoleID`.
+
+![](../.gitbook/assets/unknown-1-.png)
 
