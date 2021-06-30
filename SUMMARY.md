@@ -1,6 +1,6 @@
 # Table of contents
 
-* [KiroBot \| Discord](README.md)
+* [deKiro \| Discord](README.md)
 * [Página principal](https://www.kirobot.cc)
 * [Donaciones](donaciones.md)
 * [Servidor de soporte](https://discord.gg/Rwy8J35)
