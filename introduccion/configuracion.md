@@ -58,7 +58,10 @@ Se mandará un mensaje por MD al nuevo usuario con el texto que se ponga dentro 
 #### Banner de bienvenida y rol
 
 Se mandará un banner de bienvenida al canal especificado en `welcomeChannelID`con la imagen de fondo que se especifique en `welcomeImageLink`  
+  
+La imagen de `welcomeImageLink` debe de tener un tamaño de `1024x450`pixeles.  
+  
 También se asignará a los nuevos usuarios con el rol especificado en `welcomeRoleID`.
 
-![](../.gitbook/assets/unknown-1-.png)
+![](../.gitbook/assets/unknown-1-%20%281%29.png)
 
