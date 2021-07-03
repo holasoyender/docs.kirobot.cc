@@ -4,7 +4,7 @@
 * [Página principal](https://www.kirobot.cc)
 * [Donaciones](donaciones.md)
 * [Servidor de soporte](https://discord.gg/Rwy8J35)
-* [Invitar a tu servidor](https://discord.com/api/oauth2/authorize?client_id=691263770399342592&permissions=8&scope=bot)
+* [Invitar a tu servidor](https://discord.com/oauth2/authorize?client_id=708051559623163914&permissions=8&scope=bot)
 * [Estado](https://status.kirobot.cc/)
 
 ## Introducción
