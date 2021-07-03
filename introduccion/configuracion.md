@@ -63,5 +63,5 @@ La imagen de `welcomeImageLink` debe de tener un tamaño de `1024x450`pixeles.
   
 También se asignará a los nuevos usuarios con el rol especificado en `welcomeRoleID`.
 
-![](../.gitbook/assets/unknown-1-%20%281%29.png)
+![](../.gitbook/assets/unknown-3-.png)
 
