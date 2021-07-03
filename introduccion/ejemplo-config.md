@@ -5,13 +5,12 @@ description: Aqui tienes un ejemplo de archivo de configuración
 # Ejemplo config
 
 ```yaml
-#  ██╗░░██╗   ██╗   ██████╗░   ░█████╗░   ██████╗░   ░█████╗░   ████████╗
-#  ██║░██╔╝   ██║   ██╔══██╗   ██╔══██╗   ██╔══██╗   ██╔══██╗   ╚══██╔══╝
-#  █████═╝░   ██║   ██████╔╝   ██║░░██║   ██████╦╝   ██║░░██║   ░░░██║░░░
-#  ██╔═██╗░   ██║   ██╔══██╗   ██║░░██║   ██╔══██╗   ██║░░██║   ░░░██║░░░
-#  ██║░╚██╗   ██║   ██║░░██║   ╚█████╔╝   ██████╦╝   ╚█████╔╝   ░░░██║░░░
-#  ╚═╝░░╚═╝   ╚═╝   ╚═╝░░╚═╝   ░╚════╝░   ╚═════╝░   ░╚════╝░   ░░░╚═╝░░░
-#Este es el archivo de configuración para el servidor: KiroBot. Aprende a configurarlo en https://www.kirobot.cc
+#  ██████╗░ ███████╗ ██╗░░██╗ ██╗ ██████╗░ ░█████╗░
+#  ██╔══██╗ ██╔════╝ ██║░██╔╝ ██║ ██╔══██╗ ██╔══██╗
+#  ██║░░██║ █████╗░░ █████═╝░ ██║ ██████╔╝ ██║░░██║
+#  ██║░░██║ ██╔══╝░░ ██╔═██╗░ ██║ ██╔══██╗ ██║░░██║
+#  ██████╔╝ ███████╗ ██║░╚██╗ ██║ ██║░░██║ ╚█████╔╝
+#Este es el archivo de configuración para el servidor: deKiro. Aprende a configurarlo en https://www.kirobot.cc
 
 #Para aquellas configuraciones que contengan una array ([]) si se quiere añadir más de una ID se deberá separarlas entre comas
 #Ejemplo:   ignoredUsersIDs:  ["396683727868264449", "410092970562420739"]

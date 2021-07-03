@@ -4,7 +4,11 @@ description: Comandos para hacer sorteos
 
 # Sorteos
 
-#### k/sorteo start/empezar {Mención del canal} {Tiempo} {Nº Ganadores} {Premio} \[-mención\]
+#### k/sorteo crear/create
+
+Comienza el proceso para crear un sorteo recogiendo mensajes
+
+#### k/sorteo start/empezar {Mención del canal} {Tiempo} {Nº Ganadores} {Premio}
 
 Empezar un sorteo en un canal especifico.
 

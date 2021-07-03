@@ -24,13 +24,13 @@ Para poder usar el comando **mute** \(silenciar\) debes especificar la ID del ro
 
 ### Logs
 
-Si quieres que **KiroBot** haga logs de las acciones del servidor, debes de especificar una ID de canal valida en el apartado `logChannelID`
+Si quieres que **deKiro** haga logs de las acciones del servidor, debes de especificar una ID de canal valida en el apartado `logChannelID`
 
 Para ignorar usuarios o canales debes poner sus IDs en `ignoredChannelsIDs` e `ignoredUsersIDs` respectivamente.
 
 ### AutoMod
 
-Para activar **KiroBot AutoMod** debes de poner `true`en el apartado de `active`, para filtrar toda invitación a servidores externos debes de activarlo en el apartado de `deleteInvites`con `true`.
+Para activar **deKiro AutoMod** debes de poner `true`en el apartado de `active`, para filtrar toda invitación a servidores externos debes de activarlo en el apartado de `deleteInvites`con `true`.
 
 Cualquier palabra que se ponga en `bannedWords`será borrada por el **AutoMod** 
 

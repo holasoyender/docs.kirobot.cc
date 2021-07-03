@@ -6,7 +6,7 @@ Los comandos del KiroBot se utilizan con el prefijo que configures en el archivo
 
 ### Configurar el bot
 
-Para empezar a usar al **KiroBot**, se recomienda configurar su archivo de configuración:  
+Para empezar a usar a **deKiro**, se recomienda configurar su archivo de configuración:  
  - `k/exportar`, para conseguir el archivo de configuración. Para aprender a configurarlo ve a [esta pagina.](configuracion.md)  
  - `k/importar`, para importar el archivo que has configurado.
 
