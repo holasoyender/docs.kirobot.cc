@@ -4,6 +4,10 @@ description: Comandos dedicados al ocio
 
 # Ocio
 
+#### k/ender
+
+Muestra una foto de un gato en especifico.
+
 #### k/perro
 
 Manda una foto aleatoria de un perro

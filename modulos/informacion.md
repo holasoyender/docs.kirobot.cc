@@ -40,3 +40,5 @@ Devuelve una invitación para el [servidor de soporte](https://discord.gg/Rwy8J3
 
 Hace una encuesta sobre lo especificado en un canal concreto.
 
+#### k/recordar {Tiempo} {Argumento}
+

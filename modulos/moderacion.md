@@ -44,6 +44,10 @@ Limita el intervalo de mandado me mensajes a un canal por x segundos
 
 Prohibe la entrada de un usuario al servidor el tiempo que se especifique.
 
+#### k/tempmute {Uusario} {Duración} \[Razón\]
+
+Mutea a un usuario durante el tiempo que se especifique
+
 #### k/unban {Usuario}
 
 Permite la entrada del servidor a un usuario baneado
@@ -51,6 +55,10 @@ Permite la entrada del servidor a un usuario baneado
 #### k/mute {Usuario}
 
 Silencia al usuario en el servidor añadiéndole el rol de **Muteado** y silenciandolo de servidor \(voz\)
+
+#### k/modinf {Usuario} {ID}
+
+Modifica la razón o la duración de una infracción
 
 #### k/unmute {Usuario}
 

@@ -21,6 +21,7 @@
 * [Bot](modulos/bot.md)
 * [Música](modulos/musica.md)
 * [Sorteos](modulos/sorteos.md)
+* [Minijuegos](modulos/minijuegos.md)
 
 ## Otros
 

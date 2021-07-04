@@ -8,10 +8,6 @@ description: Comandos de información del bot.
 
 Muestra información de **KiroBot**
 
-#### k/config
-
-Mostrar la configuración actual
-
 #### k/docs
 
 Documentación del bot
@@ -19,6 +15,10 @@ Documentación del bot
 #### k/exportar
 
 Exportar el archivo de configuración para **KiroBot**
+
+#### k/estado
+
+Muestra el estado del bot
 
 **k/inv**
 
@@ -39,8 +39,4 @@ Resetear el archivo de configuración
 #### k/say {Texto}
 
 Hacer que **KiroBot** diga algo.
-
-#### k/help
-
-Dar información sobre un comando
 
