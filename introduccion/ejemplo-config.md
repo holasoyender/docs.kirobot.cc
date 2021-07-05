@@ -20,7 +20,11 @@ prefix: "k/"                # Prefijo que usará el bot para los comandos
 lang: "esp"                 # Idioma con el que trabajará el bot. Idiomas validos: "eng" y "esp"
 
 moderation:
-    muteRoleID: "760505713758961686"            # Entre comillas la ID del rol que se dará a los usuarios silenciados
+    muteRoleID: ""            # Entre comillas la ID del rol que se dará a los usuarios silenciados
+    modRoleID: ""                      # Entre comillas la ID del rol que tendran los moderadores
+    adminRoleID: ""                       # Entre comillas la ID del rol que tendran los administradores
+    configRoleID: ""                              # Entre comillas la ID del rol que tendran los configuradores
+    giveawayRoleID: ""                                 # Entre comillas la ID del rol que tendran los moderadores de sorteos 
 
 logs:
     logChannelID: "769990731972214786"          # Entre comillas la ID del canal de logs
