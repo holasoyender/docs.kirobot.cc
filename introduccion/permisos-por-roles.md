@@ -4,7 +4,7 @@ description: Una guía de como usar los permisos por roles de deKiro
 
 # Permisos por roles
 
-**deKiro** cuenta con un modulo de permisos por roles, esto significa que independientemente de los permisos de servidor del usuario, podrá accionar comandos de mayor nivel si posee un rol con un cierto nombre.  
+**deKiro** cuenta con un modulo de permisos por roles, esto significa que independientemente de los permisos de servidor del usuario, podrá accionar comandos de mayor nivel si posee un rol especificado en la configuración.  
 Los roles disponibles son los siguientes \(con sus correspondientes comandos\)
 
 ### Moderador:
@@ -20,6 +20,7 @@ Lista de comandos disponibles con el rol "Moderador":
  - Kick
  - Modinf
  - Mute
+ - Limitar
  - Say (Otro canal)
  - Tempban
  - Tempmute
@@ -39,7 +40,6 @@ Lista de comandos disponibles con el rol "Administrador":
  - Custom
  - Darrol
  - Delinfrs
- - Limitar
  - Poll
  - Quitarrol
 ```
