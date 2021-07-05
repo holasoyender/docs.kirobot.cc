@@ -12,6 +12,7 @@
 * [Información basica](introduccion/basic.md)
 * [Configuración](introduccion/configuracion.md)
 * [Ejemplo config](introduccion/ejemplo-config.md)
+* [Permisos por roles](introduccion/permisos-por-roles.md)
 
 ## Módulos
 

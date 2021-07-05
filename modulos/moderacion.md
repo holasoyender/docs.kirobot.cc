@@ -4,71 +4,71 @@ description: Comandos centrados en la moderación de servidores.
 
 # Moderación
 
-#### k/ban {Usuario} \[Razón\]
+### ban `{Usuario} [Razón]`
 
 Prohíbe permanentemente la entrada de un usuario al servidor.
 
-#### k/clear {Número}
+### clear `{Número}`
 
 Borra el número de mensajes en un canal con un máximo de _100_.
 
-#### k/darrol {Usuario} {Nombre del Rol}
+### darrol `{Usuario} {Nombre del Rol}`
 
 Da un rol específico a un usuario.
 
-#### k/delinfr {Usuario} {ID\_Infracción}
+### delinfr `{Usuario} {ID de Infracción}`
 
 Borra una infracción de un usuario.
 
-#### k/delinfrs {Usuario}
+### delinfrs `{Usuario}`
 
 Borra todas las infracciones de un usuario.
 
-#### k/infrs {Usuario}
+### infrs `{Usuario}`
 
 Devuelve las infracciones de un usuario.
 
-#### k/quitarrol {Usuario} {Nombre del Rol}
+### quitarrol `{Usuario} {Nombre del Rol}`
 
 Quita un rol específico a un usuario.
 
-#### k/kick {Usuario} \[Razón\]
+### kick `{Usuario} [Razón]`
 
 Expulsa a un usuario del servidor
 
-#### k/limitar {Tiempo}
+### limitar `{Tiempo}`
 
 Limita el intervalo de mandado me mensajes a un canal por x segundos
 
-#### k/tempban {Usuario} {Duración} \[Razón\]
+### tempban `{Usuario} {Duración} [Razón]`
 
 Prohibe la entrada de un usuario al servidor el tiempo que se especifique.
 
-#### k/tempmute {Uusario} {Duración} \[Razón\]
+### tempmute `{Uusario} {Duración} [Razón]`
 
 Mutea a un usuario durante el tiempo que se especifique
 
-#### k/unban {Usuario}
+### unban `{Usuario}`
 
 Permite la entrada del servidor a un usuario baneado
 
-#### k/mute {Usuario}
+### mute `{Usuario}`
 
-Silencia al usuario en el servidor añadiéndole el rol de **Muteado** y silenciandolo de servidor \(voz\)
+Silencia al usuario en el servidor añadiéndole el rol de **Muteado** y silenciándolo de servidor \(voz\)
 
-#### k/modinf {Usuario} {ID}
+### modinf `{Usuario} {ID de Infracción} {Nuevo argumento}`
 
 Modifica la razón o la duración de una infracción
 
-#### k/unmute {Usuario}
+### unmute `{Usuario}`
 
 Desmutea al usuario en el servidor quitando el rol de **Muteado** y quitando el silenciando de servidor \(voz\)
 
-#### k/vozkick {Usuario} \[Razón\]
+### vozkick `{Usuario} [Razón]`
 
 Expulsa al usuario de el canal de voz.
 
-#### k/warn {Usuario} \[Razón\]
+### warn `{Usuario} [Razón]`
 
 Añade un aviso razonado a un usuario
 

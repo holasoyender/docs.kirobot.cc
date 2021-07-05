@@ -4,31 +4,31 @@ description: Comandos dedicados al ocio
 
 # Ocio
 
-#### k/ender
+### ender
 
 Muestra una foto de un gato en especifico.
 
-#### k/perro
+### perro
 
 Manda una foto aleatoria de un perro
 
-#### k/gato
+### gato
 
 Manda una foto aleatoria de un gato
 
-#### k/ruleta
+### ruleta
 
-Juega a la ruleta rusa con otros 6 jugadores.
+Juega a la ruleta rusa con otros t jugadores.
 
-#### k/sino {Pregunta}
+### sino `{Pregunta}`
 
 Responde de forma aleatoria con si/no a una pregunta.
 
-#### k/tiempo {Sitio}
+### tiempo `{Sitio}`
 
 Da información sobre el tiempo en el sitio especificado.
 
-#### k/tirar {Número}
+#### tirar `{Número}`
 
 Elige un número aleatorio entre 1 y el numero dado.
 

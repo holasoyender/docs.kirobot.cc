@@ -1,5 +1,5 @@
 ---
-description: Como configurar a KiroBot
+description: Como configurar a deKiro
 ---
 
 # Configuración

@@ -4,55 +4,55 @@ description: Comandos para música
 
 # Música
 
-#### k/play \(k/p\) {Nombre/link}
+### play \(k/p\) `{Nombre/link}`
 
 Reproduce una canción en el canal de voz del autor.
 
-#### k/stop
+### stop
 
 Parar la canción sonando.
 
-#### k/letra \[Nombre de la canción\]
+### letra `[Nombre de la canción]`
 
 Devuelve la letra de la canción especificada, si no se dice ninguna, de la que está sonando
 
-#### k/resume
+### resume
 
 Resume la canción parada.
 
-#### k/sonando
+### sonando
 
 Muestra la información de la canción sonando.
 
-#### k/volume \[0 - 100\]
+### volumen `[0 - 100]`
 
 Cambiar el volumen de la canción sonando.
 
-#### k/pause
+### pause
 
 Pausa la canción sonando.
 
-#### k/remove {Número}
+### remove `{Número}`
 
 Quita una canción de la lista de reproducción.
 
-#### k/skip
+### skip
 
 Salta la canción sonando.
 
-#### k/shuffle
+### shuffle
 
 Reproduce la lista de reproducción de forma aleatoria.
 
-#### k/queue
+### queue
 
 Muestra la lista de reproducción.
 
-#### k/playlist {Link}
+### playlist `{Link}`
 
 Reproducir una playlist de YouTube.
 
-#### k/loop
+### loop
 
 Reproduce el bucle la canción sonando
 

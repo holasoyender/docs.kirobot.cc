@@ -4,39 +4,39 @@ description: Comandos de información del bot.
 
 # Bot
 
-#### k/bot
+### bot
 
 Muestra información de **KiroBot**
 
-#### k/docs
+### docs
 
 Documentación del bot
 
-#### k/exportar
+### exportar
 
 Exportar el archivo de configuración para **KiroBot**
 
-#### k/estado
+### estado
 
 Muestra el estado del bot
 
-**k/inv**
+### **inv**
 
 Devuelve el link de invitación de **KiroBot.**
 
-#### k/ping
+### ping
 
 Pong!
 
-#### k/importar
+### importar
 
 Importar el archivo de configuración que has configurado.
 
-#### k/iniciar
+### iniciar
 
 Resetear el archivo de configuración
 
-#### k/say {Texto}
+### say {Texto}
 
-Hacer que **KiroBot** diga algo.
+Hacer que **deKiro** diga algo.
 

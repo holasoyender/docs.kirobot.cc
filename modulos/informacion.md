@@ -4,41 +4,41 @@ description: Comandos de información
 
 # Información
 
-#### k/avatar {Usuario}
+### avatar `{Usuario}`
 
 Muestra el avatar de un usuario con una resolución mayor.
 
-#### k/badges
+### badges
 
 Muestra las badges del autor del comando.
 
-#### k/calc {Operación}
+### calc `{Operación}`
 
-Calcula una operación.
+Calcula una operación matemática.
 
-#### k/info \[Usuario\]
+### info `[Usuario]`
 
 Muestra la información del usuario especificado, si no se especifica se mostrará la del autor.
 
-#### k/jumbo {Emoji}
+### jumbo `{Emoji}`
 
 Transforma un emoji en una imagen mas grande
 
-#### k/help \[Comando\]
+### help `[Comando]`
 
 Muestra la información de un comando o una lista de los mismos
 
-#### k/server
+### server
 
 Muestra la información del servidor.
 
-#### k/soporte
+### soporte
 
-Devuelve una invitación para el [servidor de soporte](https://discord.gg/Rwy8J35) del bot.
+Devuelve una invitación para el [servidor de soporte](https://discord.gg/Rwy8J35) de **deKiro**.
 
-#### k/poll {Canal} {Argumentos}
+### poll `{Canal} {Votación}`
 
 Hace una encuesta sobre lo especificado en un canal concreto.
 
-#### k/recordar {Tiempo} {Argumento}
+### recordar `{Tiempo} {Argumento}`
 
