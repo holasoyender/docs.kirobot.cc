@@ -41,6 +41,7 @@ Lista de comandos disponibles con el rol "Administrador":
  - Delinfrs
  - Poll
  - Quitarrol
+ - Sorteo
 ```
 
 ### Configurador:
