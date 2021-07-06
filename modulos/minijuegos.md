@@ -12,3 +12,7 @@ Crea una sala de **Poker Night**
 
 Crea una sala de **YouTube Together**
 
+### chess
+
+Crea una sala de **Chess in the Park**
+
