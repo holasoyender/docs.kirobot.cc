@@ -21,7 +21,6 @@ Lista de comandos disponibles con el rol "Moderador":
  - Modinf
  - Mute
  - Limitar
- - Say (Otro canal)
  - Tempban
  - Tempmute
  - Unban
