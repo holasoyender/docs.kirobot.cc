@@ -13,6 +13,7 @@
 * [Configuración](introduccion/configuracion.md)
 * [Ejemplo config](introduccion/ejemplo-config.md)
 * [Permisos por roles](introduccion/permisos-por-roles.md)
+* [Autoroles](introduccion/autoroles.md)
 
 ## Módulos
 
