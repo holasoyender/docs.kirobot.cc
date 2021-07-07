@@ -24,6 +24,10 @@ Muestra el estado del bot
 
 Devuelve el link de invitación de **KiroBot.**
 
+### rolemenu
+
+Empieza el proceso de crear un menú de asignación de roles automático. [Más info](../introduccion/autoroles.md)
+
 ### ping
 
 Pong!
