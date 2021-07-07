@@ -14,7 +14,7 @@ En el paso uno se especificará en que canal debe de mandarse el mensaje al que 
 
 #### Paso 2 - 4
 
-Entre los pasos **2** y **4** se podrá customizar el embed que se mandará junto a los botones, las opciones de customización disponibles son: `Titulo de embed`, `Descripción de embed`y `Imagen de embed`.
+Entre los pasos **2** y **4** se podrá customizar el embed que se mandará junto a los botones, las opciones de customización disponibles son: `Titulo de embed`, `Descripción de embed`e `Imagen de embed`.
 
 #### Paso 5
 
