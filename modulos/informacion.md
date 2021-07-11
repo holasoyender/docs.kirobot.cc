@@ -42,3 +42,11 @@ Hace una encuesta sobre lo especificado en un canal concreto.
 
 ### recordar `{Tiempo} {Argumento}`
 
+Añade un recordatorio programado para un usuario.
+
+### recordatorios `[borrar/lista] {ID}`
+
+Listar o borrar los recordatorios de un usuario.
+
+### 
+
