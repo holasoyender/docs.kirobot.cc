@@ -12,6 +12,18 @@ Muestra información de **KiroBot**
 
 Documentación del bot
 
+### deshabilitar `[comando/módulo] {Nombre del comando/módulo}`
+
+Deshabilita un comando/módulo del bot
+
+### deshabilitados
+
+Hace una lista de los comandos/módulos deshabilitados
+
+### habilitar `{comando/módulo} {Nombre del comando/módulo}`
+
+Habilita un comando/módulo del bot deshabilitado
+
 ### exportar
 
 Exportar el archivo de configuración para **KiroBot**
