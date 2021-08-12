@@ -52,7 +52,7 @@ Importar el archivo de configuración que has configurado.
 
 Resetear el archivo de configuración
 
-### say {Texto}
+### say `{Texto}`
 
 Hacer que **deKiro** diga algo.
 
