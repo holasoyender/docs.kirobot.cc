@@ -39,6 +39,7 @@ Lista de comandos disponibles con el rol "Administrador":
  - Custom
  - Darrol
  - Delinfrs
+ - Deshabilitar/habilitar comandos
  - Poll
  - Quitarrol
  - Sorteo
