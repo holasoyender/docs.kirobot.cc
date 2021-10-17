@@ -22,9 +22,8 @@ Puedes restringir en cualquier momento la información recopilada por el uso de 
 
 ### ¿Cómo puedo mandar que se eliminen mis datos?
 
-Si desea eliminar sus datos debe contactar a los desarrolladores por correo \(holasoyender@kirobot.cc\) dando la siguiente información:
+Si desea eliminar sus datos debe contactar a los desarrolladores por correo (holasoyender@kirobot.cc) dando la siguiente información:
 
 * Cualquier información que demuestre que usted es el propietario de la cuenta.
 * Datos que desea eliminar o cambiar.
 * Razón.
-

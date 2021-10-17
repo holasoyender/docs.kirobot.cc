@@ -5,9 +5,8 @@ description: >-
   Donador!
 ---
 
-# Donaciones
+# 🥇 Donaciones
 
 Puedes donar a los desarrolladores [aqui](https://www.patreon.com/holasoyender)
 
-{% embed url="https://www.patreon.com/holasoyender" caption="" %}
-
+{% embed url="https://www.patreon.com/holasoyender" %}

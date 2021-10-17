@@ -54,7 +54,7 @@ Permite la entrada del servidor a un usuario baneado
 
 ### mute `{Usuario}`
 
-Silencia al usuario en el servidor añadiéndole el rol de **Muteado** y silenciándolo de servidor \(voz\)
+Silencia al usuario en el servidor añadiéndole el rol de **Muteado** y silenciándolo de servidor (voz)
 
 ### modinf `{Usuario} {ID de Infracción} {Nuevo argumento}`
 
@@ -62,7 +62,7 @@ Modifica la razón o la duración de una infracción
 
 ### unmute `{Usuario}`
 
-Desmutea al usuario en el servidor quitando el rol de **Muteado** y quitando el silenciando de servidor \(voz\)
+Desmutea al usuario en el servidor quitando el rol de **Muteado** y quitando el silenciando de servidor (voz)
 
 ### vozkick `{Usuario} [Razón]`
 
@@ -71,4 +71,3 @@ Expulsa al usuario de el canal de voz.
 ### warn `{Usuario} [Razón]`
 
 Añade un aviso razonado a un usuario
-

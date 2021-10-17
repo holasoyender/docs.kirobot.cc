@@ -45,4 +45,3 @@ welcomes:           # Documentación en https://docs.kirobot.cc/
     welcomeChannelID: ""            # Canal para enviar la foto de bienvenida, vacío para desactivarlo
     welcomeRoleID: ""                   # ID del rol a dar cuando se una un nuevo usuario
 ```
-

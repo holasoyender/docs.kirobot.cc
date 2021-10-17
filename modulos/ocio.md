@@ -31,4 +31,3 @@ Da información sobre el tiempo en el sitio especificado.
 #### tirar `{Número}`
 
 Elige un número aleatorio entre 1 y el numero dado.
-

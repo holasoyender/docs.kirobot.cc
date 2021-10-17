@@ -54,5 +54,4 @@ Resetear el archivo de configuración
 
 ### say `{Texto}`
 
-Hacer que **deKiro** diga algo.
-
+Hacer que **deKiro **diga algo.

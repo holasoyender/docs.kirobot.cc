@@ -4,7 +4,7 @@ description: Comandos para música
 
 # Música
 
-### play \(k/p\) `{Nombre/link}`
+### play (k/p) `{Nombre/link}`
 
 Reproduce una canción en el canal de voz del autor.
 
@@ -55,4 +55,3 @@ Reproducir una playlist de YouTube.
 ### loop
 
 Reproduce el bucle la canción sonando
-

@@ -14,9 +14,8 @@ Empezar un sorteo en un canal especifico.
 
 #### sorteo `reroll/repetir {ID del mensaje}`
 
-Repetir un sorteo con un\(os\) ganador\(es\) distinto\(s\)
+Repetir un sorteo con un(os) ganador(es) distinto(s)
 
 #### sorteo `stop/acabar {ID del mensaje}`
 
 Acabar un sorteo
-

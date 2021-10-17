@@ -24,7 +24,5 @@ Comprueba que tiene permisos de administrador, si el error persiste, pregunta po
 
 Usando el comando `k/exportar`el bot te devolverá un archivo YAML, puedes aprender a como configurarlo en la sección de [**Configuración**](../introduccion/configuracion.md).
 
-\*\*\*\*
-
-
+****
 
