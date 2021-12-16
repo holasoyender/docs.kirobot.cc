@@ -1,5 +1,8 @@
 ---
 description: Una guía de como usar los roles automáticos con botones con deKiro
+cover: >-
+  https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw4fHxjb2xvcnN8ZW58MHx8fHwxNjM5NjkyMDc2&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # Autoroles

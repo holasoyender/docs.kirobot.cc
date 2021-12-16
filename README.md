@@ -2,8 +2,9 @@
 description: >-
   deKiro es un bot creado por holasoyender#8934 y MicroondasV2#4508 y hosteado
   por holasoyender#8934
-cover: .gitbook/assets/waves.png
-coverY: -853.5932452276065
+cover: >-
+  https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxjb2xvcnxlbnwwfHx8fDE2Mzk2NzYyODE&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 🍉 deKiro | Discord

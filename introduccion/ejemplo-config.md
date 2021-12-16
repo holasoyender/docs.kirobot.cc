@@ -1,5 +1,8 @@
 ---
 description: Aqui tienes un ejemplo de archivo de configuración
+cover: >-
+  https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxjb2xvcnN8ZW58MHx8fHwxNjM5NjkyMDc2&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # Ejemplo config

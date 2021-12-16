@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1541701494587-cb58502866ab?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw3fHxjb2xvcnxlbnwwfHx8fDE2Mzk2NzYyODE&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
 # Información basica
 
 ### Prefix (Prefijo)
