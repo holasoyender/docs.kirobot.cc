@@ -40,6 +40,14 @@ Quita una canción de la lista de reproducción.
 
 Salta la canción sonando.
 
+### seek `{Tiempo}`
+
+Ir a un momento exacto de la canción sonando
+
+### skipto `{Tiempo}`
+
+Salta a una canción de la lista
+
 ### shuffle
 
 Reproduce la lista de reproducción de forma aleatoria.

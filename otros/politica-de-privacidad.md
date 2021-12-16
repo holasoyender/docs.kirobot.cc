@@ -8,7 +8,7 @@ description: >-
 
 ### Almacenamiento de datos
 
-Sólo almacenamos los datos necesarios para que **deKiro **funcione. Estos son:
+Sólo almacenamos los datos necesarios para que **deKiro** funcione. Estos son:
 
 * La información de los usuarios que tengan algún tipo de insignia, almacenada hasta que el usuario pida su eliminación o se quite dicha(s) insignia(s).
 * El contenido del uso de los comandos `k/todo` y `k/recordar` hasta que el usuario los elimine.&#x20;

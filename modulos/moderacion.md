@@ -68,6 +68,26 @@ Desmutea al usuario en el servidor quitando el rol de **Muteado** y quitando el 
 
 Expulsa al usuario de el canal de voz.
 
+### vozdefean `{Usuario} [Razón]`
+
+Silencia a un usuario de los canales de voz
+
+### vozmove `{Usuario} [Razón]`
+
+Mueve un usuario a otro canal de voz
+
+### vozmute `{Usuario} [Razón]`
+
+Silencia a un usuario de los canales de voz
+
+### vozundeafen `{Usuario} [Razón]`
+
+Des-ensordece a un usuario de los canales de voz
+
+### vozunmute `{Usuario} [Razón]`
+
+Des-silencia a un usuario de los canales de voz
+
 ### warn `{Usuario} [Razón]`
 
 Añade un aviso razonado a un usuario

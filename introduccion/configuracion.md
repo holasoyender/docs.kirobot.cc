@@ -1,5 +1,6 @@
 ---
 description: Como configurar a deKiro
+coverY: 0
 ---
 
 # Configuración
@@ -20,11 +21,11 @@ Puedes contribuir añadiendo un idioma en el [servidor de soporte](https://disco
 
 ### Moderación
 
-Para poder usar el comando **mute** (silenciar) debes especificar la ID del rol de mute en el apartado de  `muteRoleID` 
+Para poder usar el comando **mute** (silenciar) debes especificar la ID del rol de mute en el apartado de  `muteRoleID`&#x20;
 
 ### Logs
 
-Si quieres que **deKiro **haga logs de las acciones del servidor, debes de especificar una ID de canal valida en el apartado `logChannelID`
+Si quieres que **deKiro** haga logs de las acciones del servidor, debes de especificar una ID de canal valida en el apartado `logChannelID`
 
 Para ignorar usuarios o canales debes poner sus IDs en `ignoredChannelsIDs` e `ignoredUsersIDs` respectivamente.
 
@@ -32,7 +33,7 @@ Para ignorar usuarios o canales debes poner sus IDs en `ignoredChannelsIDs` e `i
 
 Para activar **deKiro AutoMod** debes de poner `true`en el apartado de `active`, para filtrar toda invitación a servidores externos debes de activarlo en el apartado de `deleteInvites`con `true`.
 
-Cualquier palabra que se ponga en `bannedWords`será borrada por el **AutoMod** 
+Cualquier palabra que se ponga en `bannedWords`será borrada por el **AutoMod**&#x20;
 
 Para ignorar usuarios o canales debes poner sus IDs en `ignoredChannelsIDs` e `ignoredUsersIDs` respectivamente (como en el apartado de Logs).
 
@@ -63,4 +64,4 @@ La imagen de `welcomeImageLink` debe de tener un tamaño de `1024x450`pixeles.\
 \
 También se asignará a los nuevos usuarios con el rol especificado en `welcomeRoleID`.
 
-![](../.gitbook/assets/unknown\[3].png)
+![](../.gitbook/assets/3.jpg)

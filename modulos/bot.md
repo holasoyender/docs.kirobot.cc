@@ -12,6 +12,14 @@ Muestra información de **KiroBot**
 
 Documentación del bot
 
+### custom `{Opción} {Argumentos}`
+
+Añadir, quitar o listar los comandos personalizados.
+
+### dashboard
+
+Dashboard de deKiro.
+
 ### deshabilitar `[comando/módulo] {Nombre del comando/módulo}`
 
 Deshabilita un comando/módulo del bot
@@ -54,4 +62,4 @@ Resetear el archivo de configuración
 
 ### say `{Texto}`
 
-Hacer que **deKiro **diga algo.
+Hacer que **deKiro** diga algo.

@@ -3,9 +3,9 @@
 * [🍉 deKiro | Discord](README.md)
 * [Página principal](https://www.kirobot.cc)
 * [🥇 Donaciones](donaciones.md)
-* [Servidor de soporte](https://discord.gg/Rwy8J35)
-* [Invitar a tu servidor](https://discord.com/oauth2/authorize?client_id=708051559623163914\&permissions=8\&scope=bot)
-* [Estado](https://status.kirobot.cc)
+* [🔧 Servidor de soporte](https://discord.gg/Rwy8J35)
+* [🪃 Invitar a tu servidor](https://discord.com/api/oauth2/authorize?client\_id=911292246815547442\&permissions=8\&scope=bot)
+* [📡 Estado](https://status.kirobot.cc)
 
 ## Introducción
 
@@ -23,7 +23,6 @@
 * [Bot](modulos/bot.md)
 * [Música](modulos/musica.md)
 * [Sorteos](modulos/sorteos.md)
-* [Minijuegos](modulos/minijuegos.md)
 
 ## Otros
 

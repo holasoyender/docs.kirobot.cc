@@ -20,6 +20,10 @@ Manda una foto aleatoria de un gato
 
 Juega a la ruleta rusa con otros t jugadores.
 
+### juntos
+
+Selecciona el minijuego de discord que quieras jugar!
+
 ### sino `{Pregunta}`
 
 Responde de forma aleatoria con si/no a una pregunta.
@@ -28,6 +32,11 @@ Responde de forma aleatoria con si/no a una pregunta.
 
 Da información sobre el tiempo en el sitio especificado.
 
-#### tirar `{Número}`
+### tirar `{Número}`
 
 Elige un número aleatorio entre 1 y el numero dado.
+
+### tictactoe `{Usuario}`
+
+Jugar al tres en raya contra otro jugador
+
